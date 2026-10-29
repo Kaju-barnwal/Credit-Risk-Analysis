@@ -56,7 +56,7 @@ Questions explored:
 - **Name:** Paisabazaar Credit Risk Dataset
 - **Size:** 100,000 rows × 28 columns (before cleaning)
 - **Target variable:** `Credit_Score` (Good / Standard / Poor)
-- **Source:** _add dataset link here_
+- **Source:** [Paisabazaar dataset (Google Drive)](https://drive.google.com/file/d/10RjIM_lbtIOPdE-8dPCGpVeOf4or-NON/view?usp=drive_link)
 
 | Category | Key columns |
 |----------|-------------|
@@ -133,7 +133,7 @@ New variables created for the dashboard:
 ![Risk Driver Deep Dive](dashboard/screenshots/risk_driver_deep_dive.png)
 ![Early Warning & Customer View](dashboard/screenshots/early_warning_customer_view.png)
 
-**Dashboard link:** _add published Power BI link here_
+**Dashboard link:** [View the Power BI dashboard (Google Drive)](https://drive.google.com/file/d/16Lp_gAgjoSJyUiaxL4H9bX1ObDX8cvh4/view?usp=drive_link)
 
 ---
 
@@ -182,7 +182,7 @@ jupyter notebook
 Update the dataset path in the notebook (the original uses a Google Drive path via Colab) and run all cells.
 
 **Dashboard**
-Open the `.pbix` file in Power BI Desktop, or use the published link above.
+Open the `.pbix` file in Power BI Desktop, or use the dashboard link above.
 
 ---
 
